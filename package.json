@@ -1,0 +1,13 @@
+{
+  "name": "business-inno-ai-music",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI music generation studio powered by SunoAPI.org, deployable on Netlify",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
